@@ -1,0 +1,19 @@
+Indice da Passagem: 3
+Referencia do Bilhete: 
+Nome do Viajante: Marcos
+Idade do viajante: 23
+Genero(Sexo): M
+Tipo de Viajem: So Ida
+VOO: TM2130
+Cidade de Partida: Niassa
+Cidade de Chegada: Inhambane
+Hora de Partida: 21:15
+Hora de Chegada: 
+Dia do VOO: Sexta-F
+Adultos: 1
+Criancas: 0
+Bebes: 0
+Entidade: Companhia Aeria LAM
+Referencia: 49316
+Preco do Bilhete: 2367MT
+STATUS: Nao Pago

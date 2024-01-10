@@ -1,0 +1,7 @@
+Nome do Produto: Cadeira
+Categoria do Produto: Movel para Sala
+Referencia: Y919
+Preco do Produto: 4199.000000
+Unidades: 5
+Preco Total da Compra: 20995.000000
+Data da Compra: 

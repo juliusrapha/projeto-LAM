@@ -1,0 +1,19 @@
+Indice da Passagem: 1
+Referencia do Bilhete: 
+Nome do Viajante: Eugenio Biza
+Idade do viajante: 18
+Genero(Sexo): M
+Tipo de Viajem: So Ida
+VOO: BJ3485
+Cidade de Partida: Beira  - BRA 
+Cidade de Chegada: Joanesburgo - J
+Hora de Partida: 14:15
+Hora de Chegada: 
+Dia do VOO: Terca/Q
+Adultos: 2
+Criancas: 0
+Bebes: 0
+Entidade: Companhia Aeria LAM
+Referencia: 49316
+Preco do Bilhete: 2360MT
+STATUS: Nao Pago

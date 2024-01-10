@@ -1,0 +1,6 @@
+Responsavel Pela Carga: Neida Carla Chissone
+Tipo de Bagagem: Bagagem de
+Peso da Carga: 2.000000
+Tipo de Carga: Objectos de Alto valor
+Categoria do Peso: Peso Leve
+Preco da Carga: 5000.000000

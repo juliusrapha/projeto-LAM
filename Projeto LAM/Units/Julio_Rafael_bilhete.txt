@@ -1,0 +1,17 @@
+Indice da Passagem: 3
+Referencia do Bilhete: 12345
+Nome do Ordenante: Julio_Rafael
+Idade do Ordenante: 18
+Genero(Sexo): M
+Endereco da Morada: Qyarteirao 19
+Estado Civil: Solteiro
+Tipo de Viajem: So Ida
+VOO: TM2147
+Cidade de Partida: Maputo
+Cidade de Chegada: Chimoio
+Dia do VOO: Quarta 
+Adultos: 1
+Criancas: 0
+Bebes: 0
+Preco do Bilhete: 1913MT
+STATUS: Nao Pago

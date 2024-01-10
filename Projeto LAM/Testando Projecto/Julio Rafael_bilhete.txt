@@ -1,0 +1,19 @@
+Indice da Passagem: 3
+Referencia do Bilhete: 
+Nome do Viajante: Julio Rafael
+Idade do viajante: 20
+Genero(Sexo): M
+Tipo de Viajem: So Ida
+VOO: TM2126
+Cidade de Partida: Tete
+Cidade de Chegada: Niassa
+Hora de Partida: 17:00
+Hora de Chegada: 
+Dia do VOO: Sexta-F
+Adultos: 3
+Criancas: 0
+Bebes: 0
+Entidade: Passagem LAM
+Referencia: 45387
+Preco do Bilhete: 4567MT
+STATUS: Nao Pago

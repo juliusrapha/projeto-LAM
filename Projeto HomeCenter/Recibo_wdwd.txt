@@ -1,0 +1,7 @@
+Nome do Produto: Cama Casal
+Categoria do Produto: Movel para Quarto
+Referencia: wdwd
+Preco do Produto: 3333.000000
+Unidades: 2
+Preco Total da Compra: 6666.000000
+Data da Compra: 

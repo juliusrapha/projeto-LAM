@@ -1,0 +1,6 @@
+Responsavel Pela Carga: Julio
+Tipo de Bagagem: Bagagem de
+Peso da Carga: 2100.000000
+Tipo de Carga: Armas e Municoes
+Categoria do Peso: Peso Medio
+Preco da Carga: 10000.000000

@@ -1,0 +1,6 @@
+Responsavel Pela Carga: paulo
+Tipo de Bagagem: Bagagem de
+Peso da Carga: 5000.000000
+Tipo de Carga: Equipamentos Desportivos
+Categoria do Peso: Peso Pesad
+Preco da Carga: 0.000000

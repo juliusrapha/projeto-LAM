@@ -1,0 +1,19 @@
+Indice da Passagem: 4
+Referencia do Bilhete: 
+Nome do Viajante: Julio Rafael Chirrime
+Idade do viajante: 20
+Genero(Sexo): M
+Tipo de Viajem: So Ida
+VOO: TM2171
+Cidade de Partida: Beira
+Cidade de Chegada: Tete
+Hora de Partida: 08:00
+Hora de Chegada: 09:20
+Dia do VOO: Terca/Q
+Adultos: 2
+Criancas: 0
+Bebes: 0
+Entidade: Companhia Aeria LAM
+Referencia: 49316
+Preco do Bilhete: 2360MT
+STATUS: Nao Pago

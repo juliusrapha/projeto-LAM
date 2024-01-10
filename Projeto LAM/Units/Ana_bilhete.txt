@@ -1,0 +1,19 @@
+Indice da Passagem: 1
+Referencia do Bilhete: 
+Nome do Viajante: Ana
+Idade do viajante: 18
+Genero(Sexo): F
+Tipo de Viajem: So Ida
+VOO: TM2156
+Cidade de Partida: Maputo
+Cidade de Chegada: Niassa
+Hora de Partida: 13:45
+Hora de Chegada: 
+Dia do VOO: Sabado 
+Adultos: 1
+Criancas: 0
+Bebes: 0
+Entidade: Companhia Aeria LAM
+Referencia: 49316
+Preco do Bilhete: 7757MT
+STATUS: Nao Pago

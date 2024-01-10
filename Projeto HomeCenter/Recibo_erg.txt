@@ -1,0 +1,7 @@
+Nome do Produto: gbbhngfh
+Categoria do Produto: Movel para Sala
+Referencia: erg
+Preco do Produto: 1000.000000
+Unidades: 2
+Preco Total da Compra: 2000.000000
+Data da Compra: 
